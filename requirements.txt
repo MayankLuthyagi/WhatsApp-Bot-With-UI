@@ -1,4 +1,4 @@
-streamlit==1.15.0
+streamlit==1.37.0
 selenium==4.8.0
 webdriver-manager==3.8.1
 altair==4.2.0  # Include this to resolve altair errors
